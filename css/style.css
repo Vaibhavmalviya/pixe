@@ -1,0 +1,160 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.top-nav{
+    font-weight: 500;
+    font-size: 16px;
+    color:white;
+    margin-left: 10px;
+    margin-right:10px;
+}
+.font-header{
+    font-weight: 400;
+}
+.banner-style{
+background: url(../images/banner.jpg);
+padding-top: 200px;
+padding-bottom: 200px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+.btn-top{
+    background-color: #f64b3c;
+    color: white;
+    padding: 10px 60px 10px 60px;
+    border-radius: 30px;
+}
+
+.second-section{
+    padding-top: 50px;
+    padding-bottom: 80px;
+    background-color: #f6eedf;
+}
+
+.top-heading{
+color: #f64b3c;
+}
+
+.top-heading-second{
+color: #f64b3c;
+font-size: 18px;
+padding-top: 20px;
+}
+
+.people-circle{
+    border-radius: 50%;
+    width: 150px;
+}
+
+.third-section{
+background-color: #f64b3c;
+padding-top: 150px;
+padding-bottom: 150px;
+}
+
+.btn-center{
+    background-color: white;
+    color: #f64b3c;
+    padding: 10px 60px 10px 60px;
+    border-radius: 30px;
+    font-weight: bold;
+}
+
+.top-heading-third{
+font-size: 20px;
+padding-top: 20px;
+}
+
+.forth-section{
+background-color: #f6eedf;
+padding-top: 150px;
+padding-bottom: 150px;
+}
+
+.circle-text{
+    border: 5px solid;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding-top: 40px;
+    margin: auto;
+}
+
+.fifth-section{
+    padding-top: 50px;
+    padding-bottom: 80px;
+    background-color: #f64b3c;
+}
+
+.section-six{
+background-color: #f6eedf;
+padding-top: 100px;
+padding-bottom: 100px;
+}
+.btn-card{
+    background-color: #f64b3c;
+    color: white;
+    padding: 10px 60px 10px 60px;
+    border-radius: 30px;
+}
+.default-color{
+    color: #f64b3c;
+}
+
+.bold-default{
+    font-weight: bold;
+}
+
+.banner-bottom{
+    background: url(../images/banner2.jpg);
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    background-repeat: no-repeat;
+    background-position: top;
+    
+}
+
+.banner-bottom-text{
+    font-size: 20px;
+}
+
+.subscribe-section{
+    background-color: #F6EEDF;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.text-input{
+    width: 450px;
+    height: 45px;
+    border-radius: 20px 0px 0px 20px;
+    padding-left: 20px;
+    border: none;
+   
+}
+::placeholder {
+  color: #c1ae9f;
+  opacity: 1; /* Firefox */
+}
+.btn-submit{
+    background-color: #f64b3c;
+    border: none;
+    height: 45px;
+    width: 150px;
+    color: white;
+    border-radius: 0px 20px 20px 0px;
+}
+
+footer{
+    background-color: #222222;
+    padding-top: 150px;
+    padding-bottom: 150;
+    color: white;
+}
